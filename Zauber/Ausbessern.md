@@ -1,3 +1,20 @@
+---
+tags:
+  - "#spell"
+  - "#cantrip"
+Schule: Verwandlungsmagie
+Grad: 0
+Zeitaufwand: 1 Minute
+Wirkungsdauer: Unmittelbar
+Reichweite: Berührung
+Komponenten: V, S, M
+Materials: zwei Magnetsteine
+Ritual: False
+Klassen: Barde, Kleriker, Druide, Zauberer, Magier
+aliases:
+  - <🪄Ausbessern>
+---
+
 # Ausbessern
 
 ## Beschreibung
