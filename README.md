@@ -1,2 +1,2 @@
 # dnd-wiki
-Aspiration to include the whole Dungeons and Dragons 5e players handbook as an online wiki to enhance session logs with direct linking.
+Vorhaben das gesamte *Dungeons and Dragons* 5e Spielerhandbuch als online wiki zu verfassen um *Session Logs* mit Verlinkungen zu erweitern.
